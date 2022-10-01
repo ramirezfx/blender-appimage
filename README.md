@@ -18,4 +18,12 @@ cd blender-appimage
 
 Make the script executable:
 
-`chmod +x build-firefox.sh`
+`chmod +x build-blender.sh`
+
+Run the script:
+
+`./build-blender.sh`
+
+The latest version of blender will be downloaded and the AppImage will be created.
+
+The file will be created in the same directory and the name will be **Blender-x86_64.AppImage**
