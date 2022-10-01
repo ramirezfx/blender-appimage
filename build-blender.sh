@@ -1,5 +1,5 @@
 #!/bin/bash
-rm -Rf blender-2.93.4-linux-x64
+rm -Rf blender-*
 rm blender-2.93.4-linux-x64.tar.xz
 rm appimagetool-x86_64.AppImage
 rm Blender-x86_64.AppImage
