@@ -10,11 +10,11 @@ Install GIT:
 
 Clone this repo:
 
-git clone https://github.com/ramirezfx/blender-appimage.git
+`git clone https://github.com/ramirezfx/blender-appimage.git`
 
 Navigate to the script-directory:
 
-cd blender-appimage
+`cd blender-appimage`
 
 Make the script executable:
 
